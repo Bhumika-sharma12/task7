@@ -28,3 +28,9 @@ wrote the query
 **step 6**
 
 made graph and saved it
+
+# you can check the notebook from here
+<a href='https://github.com/Bhumika-sharma12/task7/blob/main/orders_using_python.ipynb'> notebook_file</a>
+
+![sales_chart](https://github.com/user-attachments/assets/b6dc5794-3665-4d5c-848f-0a095bf27a7c)
+
